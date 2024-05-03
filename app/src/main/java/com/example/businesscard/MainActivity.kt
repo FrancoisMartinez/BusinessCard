@@ -152,7 +152,7 @@ fun Background(modifier: Modifier = Modifier) {
 
             ContactInfo(
                 phone = "(438) 493-2262",
-                email = "martinezfrancois@gmail.com"
+                email = "martinezfrancois004@gmail.com"
             )
         }
     }
